@@ -1,3 +1,6 @@
+
+/* ==== The base for every button ==== */
+
 .btn {
   display: inline-block;
   text-decoration: none;
@@ -13,6 +16,8 @@
   vertical-align: middle;
   color: #fff;
 }
+
+/* ==== Additional style ==== */
 
 .btn-default {
   color: #333;
